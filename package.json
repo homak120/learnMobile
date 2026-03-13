@@ -1,0 +1,23 @@
+{
+  "name": "learnmobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homak120/learnMobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homak120/learnMobile/issues"
+  },
+  "homepage": "https://github.com/homak120/learnMobile#readme",
+  "dependencies": {
+    "expo-brownfield": "^55.0.13"
+  }
+}
